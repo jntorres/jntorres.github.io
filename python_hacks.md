@@ -1,6 +1,6 @@
 
 
-## Python Hacks. What every python coder should know
+## Python Hacks 01. What every python coder should know ...
 
 ### Debugging
 By and far, I have mentored and interacted with many people who code in python yet do not know how to debug. Below I discuss my best approaches to debugging code I have written, I would love to hear about different approaches you use!
