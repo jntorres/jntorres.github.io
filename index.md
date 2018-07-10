@@ -1,6 +1,6 @@
 ## Welcome
 
-This site is a collection of my thoughts and musings on all things data science. I welcome any feedback, questions or comments on any of the content you see here.
+This site is a collection of my thoughts and musings on all things data science, machine learning and deep learning. I welcome any feedback, questions or comments on any of the content you see here.
 
 
 [Python Hacks 01. Simple tricks and approaches you should know: Debugging](./python_hacks.html).
