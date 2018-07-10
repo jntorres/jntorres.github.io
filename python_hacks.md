@@ -3,7 +3,7 @@
 ## Python Hacks. What every python coder should know
 
 ### Debugging
-By and far, I have mentored and interacted with many people who code in python yet do not know how to debug. Below I discuss my best approaches to debugging my code. I would love to hear about approaches you use!
+By and far, I have mentored and interacted with many people who code in python yet do not know how to debug. Below I discuss my best approaches to debugging code I have written, I would love to hear about different approaches you use!
 
 #### pdb
 I use pdb on a daily basis. It is one of the first debugging resources I learned about, and it is particularly useful for situations where you have a complex piece of code that is producing an error that is not readily identifiable. 
