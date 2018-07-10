@@ -20,7 +20,6 @@ Below are pretty straight forward examples of each type with the example script 
 ```
 import pdb
 def divide(a, b):
-    pdb.set_trace()
     return a / b
     
 if __name__ == '__main__':
@@ -78,8 +77,20 @@ Type "help", "copyright", "credits" or "license" for more information.
 ```
 ##### Within your program
 
+Added `pdb.set_trace()` to myscript.py:
+```
+import pdb
+def divide(a, b):
+    pdb.set_trace()
+    return a / b
+    
+if __name__ == '__main__':
+    divide(3,0)
+```
+This allows us to run pdb and stop at the designated spot selected. 
 ```
 jessica$ python my_script.py
+(Pdb)
 ```
 
 I hope these quick and easy examples give you insight to how to use pdb for your debugging needs. Questions, comments and suggestions are welcome. 
