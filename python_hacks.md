@@ -8,4 +8,9 @@ By and far, I have mentored and interacted with many people who code in python y
 #### pdb
 I use pdb on a daily basis. It is one of the first debugging resources I learned about, and it is particularly useful for situations where you have a complex piece of code that is producing an error that is not readily identifiable. 
 
+```
+import pdb; 
+pdb.set_trace()
+```
+
 [back](./)
