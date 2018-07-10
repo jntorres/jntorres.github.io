@@ -15,15 +15,16 @@ You can use pdb 4 ways:
 4. Within the interpreter
  
 
-Below are pretty straight forward examples of each type with the example script as follows:
-```
- 
-my_script.py:
+Below are pretty straight forward examples of each type with the example script myscript.py as follows:
 
+```
 import pdb
 def divide(a, b):
     pdb.set_trace()
     return a / b
+    
+if __name__ == '__main__':
+    divide(3,0)
 ```
 
 
@@ -70,9 +71,8 @@ Python 3.5.3 | packaged by conda-forge | (default, May 12 2017, 15:35:12)
 Type "help", "copyright", "credits" or "license" for more information.
 
 >>> import pdb
->>> import my_script
->>> pdb.run('my_script()')
-> <string>(1)<module>()
+>>> import myscript
+>>> pdb.run('divide(3,0)')
 (Pdb)
 
 ```
@@ -81,6 +81,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 ```
 jessica$ python my_script.py
 ```
-Questions, comments and suggestions are welcome. 
+
+I hope these quick and easy examples give you insight to how to use pdb for your debugging needs. Questions, comments and suggestions are welcome. 
 
 [back](./)
