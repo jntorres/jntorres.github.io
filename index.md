@@ -6,4 +6,15 @@ This site is a collection of my thoughts and musings on all things data science.
 [Python Hacks. Simple tricks and approaches you should know](./python_hacks.html).
 
 
+[Data Science 101. Supervised and Unsupervised Methods](./ds_101.html).
+
+
+[Linear Regression](./lr.html).
+
+
+[Clustering](./clustering.html).
+
+
+[Trees](./trees.html).
+
 
