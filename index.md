@@ -8,6 +8,7 @@ This site is a collection of my thoughts and musings on all things data science.
 
 [Data Science 101. Supervised and Unsupervised Methods](./ds_101.html).
 
+[Preprocessing your data. The most overlooked part of machine learning](./ds_101.html).
 
 [Linear Regression](./lr.html).
 
