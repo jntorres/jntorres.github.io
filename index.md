@@ -19,7 +19,7 @@ This site is a collection of my thoughts and musings on all things data science,
 [Trees. Bagging and Boosting, What's the difference?](./trees.html).
 
 
-[Deep Learning with Keras introduction](./trees.html)
+[Deep Learning with Keras introduction](./dl_keras.html)
 
 
-[Deep Learning and imbalanced datasets.. why evaluation metrics are important](./trees.html)
+[Deep Learning and imbalanced datasets.. why evaluation metrics are important](./dl_imbalanced.html)
