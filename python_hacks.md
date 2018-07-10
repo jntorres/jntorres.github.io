@@ -49,10 +49,8 @@ In [4]: pdb.pm()
 
 ##### From command line
 ```
-$ python -m pdb myscript.py
-> .../myscript.py(7)<module>()
--> """
-(Pdb)
+jessica$ python -m pdb -c continue myscript.py
+
 ```
 
 ##### Within the interpreter
