@@ -49,12 +49,10 @@ In [4]: pdb.pm()
 
 ##### From command line
 ```
-import pdb; 
-
-def find_answer(number1, number2):
-    return
-
-pdb.set_trace()
+$ python -m pdb myscript.py
+> .../myscript.py(7)<module>()
+-> """
+(Pdb)
 ```
 
 ##### Within the interpreter
