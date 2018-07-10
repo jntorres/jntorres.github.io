@@ -15,7 +15,18 @@ You can use pdb 4 ways:
 4. Within the interpreter
  
 
-Below are pretty straight forward examples of each type.
+Below are pretty straight forward examples of each type with the example script as follows:
+```
+ 
+my_script.py:
+
+import pdb
+def divide(a, b):
+    pdb.set_trace()
+    return a / b
+```
+
+
 ##### After a failure
 ```
 jessica$ ipython
@@ -44,33 +55,32 @@ ZeroDivisionError: division by zero
 In [4]: pdb.pm()
 > <ipython-input-2-25fda7045bd1>(2)divide()
 -> return a / b
-
 ```
 
 ##### From command line
 ```
 jessica$ python -m pdb -c continue myscript.py
-
 ```
 
 ##### Within the interpreter
 ```
-import pdb; 
+Jessica$ python
+Python 3.5.3 | packaged by conda-forge | (default, May 12 2017, 15:35:12)
+[GCC 4.2.1 Compatible Apple LLVM 6.1.0 (clang-602.0.53)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
 
-def find_answer(number1, number2):
-    return
+>>> import pdb
+>>> import my_script
+>>> pdb.run('my_script()')
+> <string>(1)<module>()
+(Pdb)
 
-pdb.set_trace()
 ```
 ##### Within your program
 
-
 ```
-import pdb; 
-
-def find_answer(number1, number2):
-    return
-
-pdb.set_trace()
+jessica$ python my_script.py
 ```
+Questions, comments and suggestions are welcome. 
+
 [back](./)
