@@ -18,3 +18,7 @@ This site is a collection of my thoughts and musings on all things data science.
 [Trees](./trees.html).
 
 
+[Deep Learning with Keras introduction](./trees.html)
+
+
+[Deep Learning and imbalanced datasets.. why this is important?](./trees.html)
