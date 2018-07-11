@@ -10,7 +10,7 @@ This site is a collection of my thoughts and musings on all things data science,
 
 [Preprocessing your data. The most overlooked part of machine learning](./ds_101.html).
 
-[Linear Regression](./lr.html).
+[Linear Regression](./Simple_Linear_Regression.ipynb).
 
 
 [Clustering](./clustering.html).
