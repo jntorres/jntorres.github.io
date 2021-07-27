@@ -14,7 +14,7 @@ My PhD research interests lie in the general area of machine learning, particula
  
 I also have intern and industry experience focusing on machine learning applications to natural language processing (Google) and bioinformatics (Sequenom).
  
-I received my Bachelor’s and Master's degrees at San Diego State University. My undergraduate/graduate research advisors there were Dr. Ricardo Zayas and Dr. Faramarz Valafar.
+I received my Bachelor’s and Master's degrees at San Diego State University. My undergraduate/graduate research advisors there were Dr. Ricardo Zayas and Dr. Faramarz Valafar, respectively.
 
 
 
