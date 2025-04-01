@@ -8,14 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Biomedical Informatics program at Stanford University, advised by Dr. Euan Ashley. 
- 
-My PhD research interests lie in the general area of machine learning, particularly in deep learning and their applications to medical data for multi-task and multimodal systems. I enjoy working with time series and video data, as well as investigating various interpretation based methods. My publications can be found [here.](https://scholar.google.com/citations?user=dxf5O-8AAAAJ&hl=en)
- 
-I also have intern and industry experience focusing on machine learning applications to natural language processing (Google) and bioinformatics (Sequenom).
- 
-I received my Bachelor’s and Master's degrees at San Diego State University. My undergraduate/graduate research advisors there were Dr. Ricardo Zayas and Dr. Faramarz Valafar, respectively.
+I hold a PhD in Biomedical Informatics from Stanford University, where I was advised by Dr. Euan Ashley. My research focused on artificial intelligence and machine learning, particularly deep learning applications in medical data (structured and unstructured), with an emphasis on multi-task and multimodal systems. I specialized in analyzing time series and video data and developing interpretable AI models to enhance transparency and reliability. My publications can be found [here.](https://scholar.google.com/citations?user=dxf5O-8AAAAJ&hl=en)
 
+In addition to my academic research, I have industry experience leveraging artificial intelligence and machine learning for  cardiac monitoring and diagnostics at iRhythm Technologies, natural language processing at Google, and bioinformatics at Sequenom.
+ 
 
 
 
